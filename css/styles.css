@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-weight:300;
+}
+
+.text-muted {
+    color: #BCBBBB;
+    font-weight: bold;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+.title-super {
+    font-size: 40px;
+    color: #0000A2;
+    font-family: 'Caveat Brush', cursive;
+}
