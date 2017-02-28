@@ -1,10 +1,17 @@
 body {
-    font-family: 'Arial', sans-serif;
-    font-weight:300;
+    font-family: 'Roboto', sans-serif;
+    color: #4b6a88;
+    font-size: 16px;
+}
+a {
+    color: #1e90ff;
 }
 
+.container {
+    max-width: 800px;
+}
 .text-muted {
-    color: #BCBBBB;
+    color: #91a6ba;
     font-weight: bold;
 }
 
@@ -18,6 +25,10 @@ body {
 
 .title-super {
     font-size: 40px;
-    color: #0000A2;
+    color: #3455db;
     font-family: 'Caveat Brush', cursive;
+}
+
+.description {
+    font-size: 20px;
 }
